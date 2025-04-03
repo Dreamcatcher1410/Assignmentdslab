@@ -14,21 +14,7 @@ Efficient C++ solutions leveraging maps for optimal performance.
 ---
 
 ## 📸 Accepted Solutions Screenshots
-
-### Two Sum
-![Two Sum](two_sum_accepted.png)
-
-### Longest Consecutive Sequence
-![Longest Consecutive Sequence](longest_consecutive_sequence_accepted.png)
-
-### First Unique Character in a String
-![First Unique Character](first_unique_character_in_string_leetcode_accepted.png)
-
-### Top K Frequent Elements
-![Top K Frequent Elements](top_k_frequent_element_accepted.png)
-
-### Valid Sudoku
-![Valid Sudoku](valid_sudoku_accepted_solution.png)
+We have already added screenshots of the accepted solutions in the repository.
 
 ---
 
@@ -56,4 +42,3 @@ Efficient C++ solutions leveraging maps for optimal performance.
 ---
 
 🎯 **Happy Coding! 🚀**
-
